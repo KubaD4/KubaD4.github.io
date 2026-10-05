@@ -1,0 +1,15 @@
+# ai.txt — AI usage policy for this website. (c) 2026 Kuba Di Quattro. All rights reserved.
+# No content of this site may be used for AI training, data mining, or to
+# reproduce/clone the website. Reading and summarising for evaluation is fine.
+# Full terms: /LICENSE.txt
+User-Agent: *
+Disallow: /
+Disallow: *.html
+Disallow: *.css
+Disallow: *.js
+Disallow: *.png
+Disallow: *.jpg
+Disallow: *.jpeg
+Disallow: *.svg
+Disallow: *.mp4
+Disallow: *.obj
